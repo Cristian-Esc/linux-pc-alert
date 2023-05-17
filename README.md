@@ -1,8 +1,8 @@
 📝 **README**
 
-# PC Alert - 📢🖥️
+# Linux PC Alert - 📢🖥️
 
-PC Alert is a Python script that sends a notification to Telegram whenever your computer starts up. 🚀
+Linux PC Alert is a Python script that sends a notification to Telegram whenever your computer starts up. 🚀
 
 ## How it Works
 
@@ -10,7 +10,7 @@ The script utilizes the Telegram Bot API to send a message to your designated Te
 
 ## Prerequisites
 
-Before using PC Alert, make sure you have the following:
+Before using Linux PC Alert, make sure you have the following:
 
 - Python 3.x installed on your computer
 - A Telegram account
@@ -40,4 +40,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Enjoy using PC Alert and always be aware when your PC springs to life! 🎉💻
+Enjoy using Linux PC Alert and always be aware when your PC springs to life! 🎉💻
